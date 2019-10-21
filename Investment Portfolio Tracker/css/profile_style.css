@@ -1,0 +1,41 @@
+body {
+    background: #f8f9fa;
+}
+
+.main-section {
+    float: right;
+    position: relative; 
+    width: calc(100% - 265px);
+}
+
+.main-section {
+    margin-top: 55px;;
+}
+
+.profile-section {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    min-height: calc(100vh - 150px);
+}
+
+.profile-heading h3 {
+    font-size: 28px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.margin-bottom {
+    margin-bottom: 0px;
+}
+
+@media(max-width:767px) {
+    .margin-bottom {
+        margin-bottom: 20px;
+    }
+}
+
+@media(min-width:768px) {
+    .main-section {
+        opacity: 1 !important;
+    }
+}

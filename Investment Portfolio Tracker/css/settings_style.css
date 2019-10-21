@@ -1,0 +1,14 @@
+body {
+    background: #f8f9fa;
+}
+
+.main-section {
+    float: right;
+    position: relative; 
+    width: calc(100% - 265px);
+}
+
+.main-section {
+    margin-top: 55px;
+    padding-top: 20px;
+}

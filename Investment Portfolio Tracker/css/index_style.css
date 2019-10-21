@@ -1,0 +1,140 @@
+.banner-section {
+    margin-top: 55px;
+    text-align: center;
+    padding-top: 80px;
+    background: #e74c3c;
+    height: 95%;
+}
+
+.banner-section h1 {
+    color: #FFFFFF;
+    font-weight: 100;
+    font-size: 48px;
+}
+
+.banner-section h2 {
+    color: #FEFEFE;
+    font-weight: 100;
+    font-size: 36px;
+}
+
+.banner-section h3 {
+    color: #FEFEFE;
+    font-weight: 100;
+    font-size: 28px;
+}
+
+.banner-section img {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.banner-btn {
+    margin-top: 50px;
+}
+
+.card-team img {
+    margin-top: 0px;
+    border-radius: 0px;
+}
+
+.card-team p {
+    padding: 0px;
+}
+
+.description-section img {
+    width: 100%;
+}
+
+.description-section span{
+    text-transform: uppercase;
+    color: #e74c3c;
+    font-weight: 600;
+}
+
+.description-section p {
+    text-align: center;
+    padding-top: 15px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.form-section {
+    text-align: center;
+}
+
+.form-section h3 {
+    text-transform: uppercase;
+    font-size: 28px;
+    margin-bottom: 40px;
+    margin-top: 0px;
+}
+
+.form-section h4 {
+    font-size: 22px;
+}
+
+.form-section p {
+    font-size: 20px;
+}
+
+.form-control {
+    float: none;
+    width: auto;
+    display: inline-block;
+    margin-bottom: 20px;
+    font-size: 18px;
+    border-radius: 1px;
+    border-width: 0 0 1px;
+    padding : 0px 12px;
+}
+
+.form-control:focus, 
+input[type=text]:focus {
+    border-radius: 1px;
+    border-width: 0 0 1px;
+}
+
+.top-margin {
+    margin-top: 100px; 
+    z-index: 2;
+}
+
+.button-margin {
+    margin: 20px 0px; 
+}
+
+@media (max-width:767px) {
+    .banner-section {
+        padding-top: 30px;
+        height: 92%;
+    }
+
+    .banner-section h1 {
+        font-size: 32px;
+    }
+
+    .banner-section h2 {
+        font-size: 24px;
+    }
+
+    .banner-section h3 {
+        font-size: 16px;
+    }
+
+    .btn.btn-white {
+        width: 150px;
+    }
+}
+
+@media (max-width:320px) {
+    .banner-section h1 {
+        font-size: 30px;
+    }
+
+    .top-margin {
+        margin-top: 55px;
+    }
+}
