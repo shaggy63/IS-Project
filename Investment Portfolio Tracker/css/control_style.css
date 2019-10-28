@@ -1,6 +1,6 @@
 html,body {
     text-decoration: none;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Arial', sans-serif;
     font-stretch: normal;
     color: #525558;
 }
@@ -117,7 +117,7 @@ html,body {
 
 .card-header {
     padding: 30px 25px 10px 25px; 
-    color: #e74c3c;
+    color: black;
     font-size: 24px;
     font-weight: 500;
     text-transform: uppercase;
@@ -178,7 +178,6 @@ html,body {
 .card-team p {
     padding: 10px 0px;
     color: #525558;
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
     line-height: 26px;
 }

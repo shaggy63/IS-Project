@@ -10,9 +10,9 @@
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+   
     
-    <link rel="icon" href="">
+
     <link rel="stylesheet" type="text/css" href="css/control_style.css">
     <link rel="stylesheet" type="text/css" href="css/profile_style.css">
     <link rel="stylesheet" type="text/css" href="css/navbar_style.css">
@@ -40,11 +40,11 @@
                                         <div class="form-group">                                           
                                             <div class="col-md-6">
                                                 <label>First name *</label>
-                                                <input name="txt_firstname" type="text" class="form-control margin-bottom" placeholder="" required value="<?php echo $firstname ?>">
+                                                <input name="txt_firstname" type="text" class="form-control margin-bottom"  required value="<?php echo $firstname ?>">
                                             </div>
                                             <div class="col-md-6">
                                                 <label>Last name *</label>
-                                                <input name="txt_lastname" type="text" class="form-control" placeholder="" required value="<?php echo $lastname ?>">
+                                                <input name="txt_lastname" type="text" class="form-control"  required value="<?php echo $lastname ?>">
                                             </div>
                                         </div>
 
@@ -76,11 +76,11 @@
                                         <div class="form-group">
                                             <div class="col-md-6">
                                                 <label>City *</label>
-                                                <input name="txt_city" type="text" class="form-control margin-bottom" placeholder="eg: Nairobi" required value="<?php echo $city ?>">
+                                                <input name="txt_city" type="text" class="form-control margin-bottom"  required value="<?php echo $city ?>">
                                             </div>
                                             <div class="col-md-6">
                                                 <label>Country *</label>
-                                                <input name="txt_country" type="text" class="form-control" placeholder="eg: Kenya" required value="<?php echo $country ?>">
+                                                <input name="txt_country" type="text" class="form-control" required value="<?php echo $country ?>">
                                             </div>
                                         </div>
 
@@ -102,7 +102,7 @@
                                         <div class="form-group col-md-12">
                                             <label>Monthly income</label>
                                             <div class="input-group">
-                                                <span class="input-group-addon">Ksh.</span>
+                                                <span class="input-group-addon">Ksh</span>
                                                 <input name="txt_income" type="number" class="form-control" placeholder="eg: 25,000" required value="<?php echo $income ?>">
                                             </div>
                                         </div>
@@ -110,7 +110,7 @@
                                         <div class="form-group col-md-12">
                                             <label>Expenses</label>
                                             <div class="input-group">
-                                                <span class="input-group-addon">Ksh.</span>
+                                                <span class="input-group-addon">Ksh</span>
                                                 <input name="txt_expenses" type="number" class="form-control" placeholder="eg: 20,000" required  value="<?php echo $expenses ?>">
                                             </div>
                                         </div>
@@ -118,7 +118,7 @@
                                         <div class="form-group col-md-12">  
                                             <label>Savings</label>
                                             <div class="input-group">
-                                                <span class="input-group-addon">Ksh.</span>
+                                                <span class="input-group-addon">Ksh</span>
                                                 <input name="txt_savings" type="number" class="form-control" placeholder="eg: 4,000" required value="<?php echo $savings ?>">
                                             </div>
                                         </div>

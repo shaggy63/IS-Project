@@ -11,7 +11,7 @@
             <?php } ?>             
             <a href="index.php">
                 <div class="logo-container">                                        
-                    <div class="navbar-logo"><img src="img/logo.svg"></div>
+                    <div class="navbar-logo"><img src="img/hologram.svg"></div>
                     <div class="navbar-title">
                         <label>PORTFOLIO SECURE</label>
                     </div>

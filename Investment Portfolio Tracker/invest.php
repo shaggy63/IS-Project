@@ -3,7 +3,7 @@
 <html>
 
 <head>
-    <title>Invest</title>
+    <title>Track</title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -12,7 +12,7 @@
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     
-    <link rel="icon" href="">
+
     <link rel="stylesheet" type="text/css" href="css/invest_style.css">
     <link rel="stylesheet" type="text/css" href="css/navbar_style.css">
     <link rel="stylesheet" type="text/css" href="css/sidebar_style.css">
@@ -35,103 +35,40 @@
                                 <tr>
                                     <th><h1>Type</h1></th>
                                     <th><h1>Name</h1></th>
-                                    <th><h1></h1></th>
-                                    <th><h1></h1></th>
-                                    <th><h1></h1></th>
-                                    <th><h1></h1></th>
+                                    
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td>Stock</td>
-                                    <td><a href="https://live.mystocks.co.ke/stock=BAMB">Bamburi Cement Ltd</a></td>
                                     <td></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
+                                    <td><a href=""></a></td>
+                                   
                                 </tr>
                                 <tr>
-                                    <td>Stock</td>
-                                    <td><a href="https://live.mystocks.co.ke/stock=TOTL">Total Kenya Ltd</a></td>
                                     <td></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
-                                </tr>
-                                <tr>
-                                    <td>Stock</td>
-                                    <td><a href="http://nsekenya.co.ke/car-general-k-ltd/"> Car and General (K) Ltd</a></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
-                                </tr>
-                                <tr>
-                                    <td>Stock</td>
-                                    <td><a href="https://live.mystocks.co.ke/stock=KQ">Kenya Airways Ltd</a></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
-                                </tr>
-                                <tr>
-                                    <td>Stock</td>
-                                    <td><a href="https://live.mystocks.co.ke/stock=SMER">Sameer Africa PLC</a></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
-                                </tr>
-                                <tr>
-                                    <td>Stock</td>
-                                    <td><a href="https://live.mystocks.co.ke/stock=KPLC">Kenya Power & Lighting Co Ltd</a></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
+                                    <td><a href=""></a></td>
+                                  
                                 </tr>
                                  <tr>
-                                    <td>Stock</td>
-                                    <td><a href="https://live.mystocks.co.ke/stock=SCOM">Safaricom PLC</a></td>
                                     <td></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
+                                    <td><a href=""></a></td>
+                                   
                                 </tr>
-
-                                <tr>
-                                    <td>Bond</td>
-                                    <td><a href="https://live.mystocks.co.ke/stock=BBK">Barclays Bank of Kenya Ltd Ord</a></td>
+                                 <tr>
                                     <td></td>
+                                    <td><a href=""></a></td>
+                                   
+                                </tr>
+                                 <tr>
                                     <td></td>
+                                    <td><a href=""></a></td>
+                                   
+                                </tr>
+                                 <tr>
                                     <td></td>
-                                    <td></td>
-                                </tr> 
-                                <tr>
-                                    <td>Bond</td>
-                                    <td><a href="https://live.mystocks.co.ke/stock=KCB">KCB Group Ltd</a></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
-                                </tr> 
-                                <tr>
-                                    <td>Bond</td>
-                                    <td><a href="https://live.mystocks.co.ke/stock=BRIT">Britam Holdings Ltd</a></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
-                                </tr> 
-                                <tr>
-                                    <td>Bond</td>
-                                    <td><a href="https://live.mystocks.co.ke/stock=COOP">The Co-operative Bank of Kenya Ltd</a></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
-                                </tr> 
-                                
+                                    <td><a href=""></a></td>
+                                   
+                                </tr>
                             </tbody>
                         </table>
                     </div>

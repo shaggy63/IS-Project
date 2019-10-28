@@ -1,5 +1,6 @@
 <?php require('includes/index_inc.php')?>
 
+
 <html>
 
 
@@ -12,8 +13,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Dosis:400,700" rel="stylesheet">   
+  
     <link rel="stylesheet" href="css/navbar_style.css">
     <link rel="stylesheet" href="css/footer_style.css">
     <link rel="stylesheet" href="css/control_style.css">
@@ -28,16 +28,16 @@
         <div class="container">    
             <div class="row">
                 <div class="col-md-12 top-margin">
-                    <h2>People make various investments yearly</h2>
-                    <h1>You Can Track Yours Here </h1>
-                
+                    <h2>People Make Many Investments Yearly</h2>
+                    <h1>TRACK YOURS</h1>
+      
                     <div class="banner-btn">              
                         <button type="button" id="btn_started" class="btn btn-primary btn-white" >Get Started</button>
                     </div>
                 </div>
             </div>
         </div>
-        <img src="img/graph.svg">
+        <img src="img/investing.svg">
     </section>
 
     <section class="section description-section">
@@ -49,7 +49,9 @@
                     </div>    
                 </div>
                 <div class="col-sm-6">
-                    <p>Simple and easy step by step procedure that you can follow</p>
+                   
+                    <p>Track Your Porfolio </p>
+                    <p>Investments are a vital part to earn more </p>
                  
                 </div>
             </div>
@@ -58,36 +60,35 @@
 
     <section class="section bg-off working-section">
         <div class="container">
-            <h3>How this patform works</h3>
-            <h4>Just <strong>3</strong> simple steps to track your investments</h4>
+            <h3>How This Plaform works</h3>
+            <h4>Just <strong>3</strong> simple steps to your goal</h4>
             <div class="row">
                 <div class="col-md-4">
                     <div class="card-padding">
                         <div class="card-team">
-                            <img src="img/money-bag.svg">
-                            <p>1.Make stock and bond investments</p>
+                            <img src="img/wallet.svg">
+                            <p>1. Plan your Investment</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="card-padding">
                         <div class="card-team">
-                            <img src="img/profit.svg">
-                            <p>2.Track them over time</p>
+                            <img src="img/track.svg">
+                            <p>2. Track Your investment</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="card-padding">
                         <div class="card-team">
-                            <img src="img/gift.svg">
-                            <p>3.Track your returns</p> 
+                            <img src="img/returns.svg">
+                            <p>3. Track your returns</p> 
                         </div>
                     </div>
                 </div>
             </div>
-            
-            </div>
+        
         </div>
     </section>
 
@@ -115,7 +116,7 @@
                     <div class="choose-content">
                         <i class="fa fa-area-chart fa-inverse fa-4x" aria-hidden="true"></i>
                         <h4>Analysis</h4>
-                        <p>The results are portrayed in an easy to understand graphical charts</p>
+                        <p>Provison of the results in an easily understandable charts</p>
                     </div>
                 </div>
 
@@ -123,7 +124,7 @@
                     <div class="choose-content">
                         <i class="fa fa-trophy fa-inverse fa-4x" aria-hidden="true"></i>
                         <h4>Quality</h4>
-                        <p>Quality services provided for users</p>
+                        <p>Provision of quality services to our users</p>
                     </div>
                 </div>
             </div>

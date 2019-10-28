@@ -19,7 +19,7 @@
                 $profile_id = mysqli_insert_id($conn);        
                 $query = "INSERT INTO useraccount (Email,Password,ProfileID) VALUES ('$email','$passhash','$profile_id')";
                 mysqli_query($conn,$query);
-                header('location: login.php');
+                header('location: profile.php');
             } 
         }
 

@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background: url("../img/background.svg");
+    background: url("../img/back.svg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -21,7 +21,7 @@ h4 {
 }
 
 .card-header i {
-    color: #e74c3c;
+    color: black;
     margin-bottom: 10px;
 }
 

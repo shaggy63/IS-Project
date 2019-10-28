@@ -10,10 +10,9 @@
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     
-    <link rel="icon" href="">
-    <link rel="stylesheet" type="text/css" href="css/control_style.css">   
+    
+       <link rel="stylesheet" type="text/css" href="css/control_style.css">   
     <link rel="stylesheet" type="text/css" href="css/navbar_style.css">
     <link rel="stylesheet" type="text/css" href="css/login_style.css">
 </head>
@@ -63,10 +62,7 @@
                                     <div class="checkbox switch-container">
                                         <label class="col-md-2 switch">
                                         <input type="checkbox" name="chbx_terms">
-                                        <span class="slider"></span>
-                                        </label>
-                                        <label class="col-md-10 switch-label">I agree to the <a href="#">terms and conditions</a></label>
-                                    </div>
+                                                                           </div>
 
                                     <div class="form-margin">
                                         <div class="col-md-6 col-md-offset-3 col-xs-6 col-xs-offset-3">  

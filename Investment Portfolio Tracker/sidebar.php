@@ -9,13 +9,13 @@
     <ul class="nav nav-list">
         <li class="header">Navigation Menu</li>
         <li <?php if (basename($_SERVER['PHP_SELF']) == 'profile.php') echo 'class="active"' ?>>
-            <a href="profile.php"><i class="fa fa-address-card fa-fw" aria-hidden="true"></i>Profile</a>
+            <a href="profile.php"><i class="fa fa-user-circle-o" aria-hidden="true"></i>Profile</a>
         </li>
         <li <?php if (basename($_SERVER['PHP_SELF']) == 'goal.php') echo 'class="active"' ?>>
-            <a href="goal.php"><i class="fa fa-gift fa-fw" aria-hidden="true"></i>INVESTMENT SELECTION</a>
+            <a href="goal.php"><i class="fa fa-money" aria-hidden="true"></i>Invest</a>
         </li>
         <li <?php if (basename($_SERVER['PHP_SELF']) == 'invest.php') echo 'class="active"' ?>>
-            <a href="invest.php"><i class="fa fa-credit-card-alt fa-fw" aria-hidden="true"></i>TRACK</a>
+            <a href="invest.php"><i class="fa fa-bar-chart" aria-hidden="true"></i>Track</a>
         </li>
     </ul>
     <ul class="nav nav-list sidebar-settings">
