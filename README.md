@@ -1,2 +1,3 @@
 # IS-Project
-An Investment Portfolio Tracker for stocks and bonds
+An Investment Portfolio Tracker for low risk investors
+
